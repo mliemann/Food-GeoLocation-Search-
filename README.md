@@ -17,10 +17,11 @@
   
 ## Author
 * Marlon Liemann
-* Nelson Chao
-* Tyler Davis
+* Nelson Chao ncchao98@gmail.com
+* Tyler Davis tdnc85@gmail.com
 
-* License MIT
+## Licenses
+* MIT
     
 
 ## Review URL
