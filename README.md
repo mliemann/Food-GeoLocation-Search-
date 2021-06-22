@@ -19,6 +19,8 @@
 * Marlon Liemann
 * Nelson Chao
 * Tyler Davis
+
+* License MIT
     
 
 ## Review URL
