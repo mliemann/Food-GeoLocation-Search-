@@ -8,6 +8,12 @@
 * When the brewery information pops up, I'm able to click on the website & phone number to allow me to dial or visit the website. 
 * If I like a specific brewery, then I am able to save to local storage as a favorite. 
 * When I click the favorites button, then I will fetch from local storage and display the favorites list in updated HTML
+
+## Technologies Used
+* JavaScript (jquery)
+* CSS (Foundation Library)
+* HTML
+* APIs
   
 ## Author
 * Marlon Liemann
