@@ -16,7 +16,7 @@
 * APIs
   
 ## Author
-* Marlon Liemann
+* Marlon Liemann mliemann@live.com
 * Nelson Chao ncchao98@gmail.com
 * Tyler Davis tdnc85@gmail.com
 
